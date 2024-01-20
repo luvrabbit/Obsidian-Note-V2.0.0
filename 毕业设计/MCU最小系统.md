@@ -4,7 +4,7 @@
 4. 支持链接
 5. 支持搜索
 # (STM32)最小系统包括什么
-| 电源 | $VDD$, $V_{BAT}$, $VDDA$, $VR<br>$VSS$,            $VSSA$,  $VREF+$, $VREF-$ |
+| 电源 | $VDD$, $V_{BAT}$, $VDDA$, $VREF+$<br>$VSS$,            $VSSA$, $VREF-$ |
 | ---- | ---- |
 |  |  |
 ## 电源
