@@ -7,7 +7,7 @@
 | 电源 | $VDD$, $V_{BAT}$, $VDDA$, $VREF+$<br>$VSS$,            $VSSA$, $VREF-$ |
 | ---- | ---- |
 |  |  |
-## 电源
+# 电源
 ## 数字电源VDD/VSS
 
 ![[Pasted image 20240120193215.png|650]]
@@ -19,7 +19,7 @@ VDD 设计需求：
 ![[Pasted image 20240120195540.png]]
 ![[Pasted image 20240120200001.png]]
 VSS直接接地
-# 备用电源$V_{BAT}$
+## 备用电源$V_{BAT}$
 
 ![[Pasted image 20240120201424.png]]
 $V_{BAT}$设计需求
