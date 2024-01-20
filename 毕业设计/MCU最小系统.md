@@ -22,8 +22,11 @@ VSS直接接地
 # 备用电源$V_{BAT}$
 
 ![[Pasted image 20240120201424.png]]
+$V_{BAT}$设计需求
 1. 1.65 ~ 3.6 V
 2. 无外部电池需要接100nF滤波到VDD
 ![[Pasted image 20240120202944.png]]
 
 ## 模拟电源VDDA/VSSA
+
+![[Pasted image 20240120204116.png]]
