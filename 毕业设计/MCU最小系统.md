@@ -17,4 +17,5 @@ VDD 设计滤波需求有两个：
 
 ![[Pasted image 20240120195540.png]]
 ![[Pasted image 20240120200001.png]]
+VSS直接jie'di
 # 备用电源$V_{BAT}$
