@@ -37,7 +37,7 @@ VDDA需求
 
 ![[Pasted image 20240120204933.png|500]]
 
-## 模拟参考电源$V_{REF}$
+## 模拟参考电压$V_{REF}$
 
 ![[Pasted image 20240120231534.png]]
 $V_{REF}$需求
