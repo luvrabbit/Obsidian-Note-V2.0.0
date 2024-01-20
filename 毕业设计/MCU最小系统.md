@@ -9,4 +9,4 @@
 |  |  |
 ## 电源
 ## 数字电源VDD
-![[Pasted image 20240120193034.png]]
+![[Pasted image 20240120193215.png]]
