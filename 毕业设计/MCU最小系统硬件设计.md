@@ -113,3 +113,7 @@ SWD最少只需要四个引脚，而且更稳定，但是只适用于ARM core
 比如JTAG的设计参考，一般二十个pin脚
 ![[Pasted image 20240125231709.png]]
 SWD一般有3/4/5线的
+1. 3线：GND,SWDIO,SWCLK
+2. 4线：GND,SWDIO,SWCLK，VREF
+3. 5线：GND,SWDIO,SWCLK，VREF，RESET
+具体要求感觉需要
