@@ -4,7 +4,7 @@
 | 电源 | $VDD$, $V_{BAT}$, $VDDA$, $VREF+$, $V_{CAP1/2}$<br>$VSS$,            $VSSA$, $VREF-$ |
 | 时钟/晶振 | $OSC\_IN, OSC\_OUT$, $OSC32\_IN, OSC32\_OUT$ |
 | 复位(RESET) | $NRST$ |
-| 调试/下载 |  |
+| 调试/下载 | $TMS/SWDIO$ |
 | BOOT(自举)模式 |  |
 # 电源部分
 ## 数字电源VDD/VSS
