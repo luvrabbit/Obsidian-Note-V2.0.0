@@ -117,3 +117,5 @@ SWD一般有3/4/5线的
 2. 4线：GND,SWDIO,SWCLK，VREF
 3. 5线：GND,SWDIO,SWCLK，VREF，RESET
 具体要求感觉需要匹配下载调试器的接口，需要进一步确认
+一种可能的设计：
+![[Pasted image 20240125232009.png|475]]
