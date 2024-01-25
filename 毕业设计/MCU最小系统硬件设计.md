@@ -98,4 +98,6 @@ $C_L$由外部两个$C_{L1}, C_{L2}$确定，具体公式与原理见pdf
 
 # 复位部分（系统复位）
 详见pdf:[[stm32F4xx_硬件设计_CN.pdf#page=10&selection=10,0,10,7|stm32F4xx_硬件设计_CN, 复位与电源监控]]
-
+![[Pasted image 20240125223603.png]]
+参考原理图设计，RESET连接引脚
+![[Pasted image 20240125223526.png]]
