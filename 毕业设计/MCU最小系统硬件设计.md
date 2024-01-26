@@ -5,7 +5,7 @@
 | 时钟/晶振 | $OSC\_IN, OSC\_OUT$, $OSC32\_IN, OSC32\_OUT$ |
 | 复位(RESET) | $NRST$ |
 | 调试/下载 | $JTMS/SWDIO(PA13), JTCK/SWCLK(PA14), JTDI(PA15)$<br>$JTDO/TRACESWO(PB3), JNTRST(PB4)$ |
-| BOOT(自举)模式 |  |
+| BOOT(自举)模式 | $BOOT1, BOOT2$ |
 # 电源部分
 ## 数字电源VDD/VSS
 
@@ -125,3 +125,4 @@ SWD一般有3/4/5线的
 
 
 # BOOT模式
+![[Pasted image 20240126205839.png]]
