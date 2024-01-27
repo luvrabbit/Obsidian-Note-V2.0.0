@@ -6,6 +6,8 @@
 | 复位(RESET) | $NRST$ |
 | 调试/下载 | $JTMS/SWDIO(PA13), JTCK/SWCLK(PA14), JTDI(PA15)$<br>$JTDO/TRACESWO(PB3), JNTRST(PB4)$ |
 | BOOT(自举)模式 | $BOOT1, BOOT2$ |
+# 参考设计
+[[stm32F4xx_硬件设计_CN.pdf#page=39&selection=12,4,16,10|stm32F4xx_参考原理图]]
 # 电源部分
 ## 数字电源VDD/VSS
 
