@@ -126,3 +126,5 @@ SWD一般有3/4/5线的
 
 # BOOT模式
 ![[Pasted image 20240126205839.png]]
+参考设计：
+![[Pasted image 20240127232543.png|450]]
