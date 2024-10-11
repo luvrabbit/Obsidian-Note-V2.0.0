@@ -6,7 +6,7 @@
 
 ## 矩阵范数
 $$ 
-\\begin{alig}
+\begin{aligned}
 
-\end{alig}
+\end{aligned}
 $$
