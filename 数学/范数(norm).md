@@ -6,7 +6,11 @@
 
 ## 矩阵范数
 $$ 
-\begin{aligned}
-
-\end{aligned}
+\begin{align}
+ss\\ \\
+ss\\ \\
+ss \\
+ss \\
+ss
+\end{align}
 $$
