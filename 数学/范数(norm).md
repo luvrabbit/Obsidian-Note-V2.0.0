@@ -6,5 +6,6 @@
 
 ## 矩阵范数
 $$
-\lVert  \rVert \sup_{ x \neq 0 } \frac{\lVert Ax \rVert}{\lVert x \rVert}   
+\lVert A \rVert = \sup_{ x \neq 0 } \frac{\lVert Ax \rVert}{\lVert x \rVert}   
 $$
+其中$\lVert  \rVert$
