@@ -6,5 +6,5 @@
 
 ## 矩阵范数
 $$
-\sup_{ n \to \infty } 
+\sup_{ x \neq 0 } \lVert Ax \rVert / \lVert  \rVert 
 $$
