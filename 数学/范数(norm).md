@@ -27,6 +27,7 @@ $$
 &那么设m = \min \frac{\lVert Ax \rVert }{\lVert x \rVert } = \min \frac{\lVert y \rVert }{\lVert A^{-1}y \rVert }，只要A是可逆的（非奇异） \\
 &那么y也是空间中任意向量 \\
 &\therefore m = \frac{1}{\min \frac{\lVert y \rVert }{\lVert A^{-1}y \rVert }} = \frac{1}{\max \frac{\lVert A^{-1}y \rVert }{\lVert y \rVert }} = \frac{1}{\lVert A^{-1} \rVert } \\
-所以说
+&所以说\frac{1}{\lVert A^{-1} \rVert }代表A对向量的最小伸缩比例 \\
+ & \frac{\lVert A \rVert}{\frac{1}{\lVert A^{-1} \rVert }} = 
 \end{align}
 $$
