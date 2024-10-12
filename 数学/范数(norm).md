@@ -23,6 +23,7 @@ $$
 $$
 \begin{align}
 \lVert A \rVert 是最大伸缩比例 \\
+所以现在需要说明的是\lVert A^{-1} \rVert 代表对向量的最小伸缩比例 \\
 
 \end{align}
 $$
