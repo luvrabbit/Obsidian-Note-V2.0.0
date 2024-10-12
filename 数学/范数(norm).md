@@ -31,3 +31,4 @@ $$
  & 所以说\frac{\lVert A \rVert}{\frac{1}{\lVert A^{-1} \rVert }} = \lVert A \rVert \lVert A^{-1} \rVert 代表最大伸缩比例比上最小伸缩比例
 \end{align}
 $$
+另一个角度来看，条件数代表着对单位球的伸展情况，条件数小（1）考虑er'q
