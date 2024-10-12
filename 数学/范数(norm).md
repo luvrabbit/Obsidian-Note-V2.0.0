@@ -18,7 +18,7 @@ $c_{2} \lVert A \rVert_{\alpha} \leq \lVert A \rVert_{\beta} \leq c_{1}\lVert A 
 $$
 \lVert A \rVert \lVert A^{-1} \rVert
 $$
-称作矩阵A的条件数，下面讲阐述条件数是矩阵$A$对空间中的向量的最大伸缩比例比上最小伸缩比例
+称作矩阵A的条件数$$，下面讲阐述条件数是矩阵$A$对空间中的向量的最大伸缩比例比上最小伸缩比例
 借鉴自这个pdf的第三页[CS210_lect07.pdf (iitd.ac.in)](https://www.cse.iitd.ac.in/~dheerajb/CS210_lect07.pdf)
 $$
 \begin{align}
@@ -28,6 +28,6 @@ $$
 &那么y也是空间中任意向量 \\
 &\therefore m = \frac{1}{\min \frac{\lVert y \rVert }{\lVert A^{-1}y \rVert }} = \frac{1}{\max \frac{\lVert A^{-1}y \rVert }{\lVert y \rVert }} = \frac{1}{\lVert A^{-1} \rVert } \\
 &所以说\frac{1}{\lVert A^{-1} \rVert }代表A对向量的最小伸缩比例 \\
- & \frac{\lVert A \rVert}{\frac{1}{\lVert A^{-1} \rVert }} = 
+ & 所以说\frac{\lVert A \rVert}{\frac{1}{\lVert A^{-1} \rVert }} = \lVert A \rVert \lVert A^{-1} \rVert 代表最大伸缩比例比上最小伸缩比例
 \end{align}
 $$
