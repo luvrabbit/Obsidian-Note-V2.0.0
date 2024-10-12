@@ -22,8 +22,8 @@ $$
 借鉴自这个pdf的第三页[CS210_lect07.pdf (iitd.ac.in)](https://www.cse.iitd.ac.in/~dheerajb/CS210_lect07.pdf)
 $$
 \begin{align}
-\lVert A \rVert 是最大伸缩比例 \\
-所以现在需要说明的是\lVert A^{-1} \rVert 代表对向量的最小伸缩比例 \\
-那么设m = \min \frac{\lVert Ax \rVert }{\lVert x \rVert }
+&\lVert A \rVert 是最大伸缩比例 \\
+&所以现在需要说明的是\lVert A^{-1} \rVert 代表对向量的最小伸缩比例 \\
+&那么设m = \min \frac{\lVert Ax \rVert }{\lVert x \rVert } = \min 
 \end{align}
 $$
