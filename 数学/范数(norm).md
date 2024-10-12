@@ -14,5 +14,6 @@ $c_{2} \lVert A \rVert_{\alpha} \leq \lVert A \rVert_{\beta} \leq c_{1}\lVert A 
 ## 条件数
 
 $$
-\lVert A \rVert \lVert  \rVert 
+\lVert A \rVert \lVert A^{-1} \rVert
 $$
+称作矩阵A的条件数，下面讲阐述条件数
