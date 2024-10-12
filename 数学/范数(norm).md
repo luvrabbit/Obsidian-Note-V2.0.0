@@ -1,7 +1,8 @@
 # WHY
-学习数值分析的die'dai'fa
+学习数值分析的迭代法解矩阵时，需要判断收敛条件，也就需要判断两个向量（矩阵）的接近程度，于是引入范数这个概念。
 # HOW
-
+https://www.stat.uchicago.edu/~lekheng/courses/302/notes2.pdf
+推导过程见上述pdf
 # WHAT
 
 ## 矩阵范数
