@@ -16,3 +16,5 @@ $\leftrightarrow$$|A(\lambda)|$为常数
 1. 行（列）对换
 2. 行（列）乘以一个非零常数
 3. 行（列）加上行（列）的$\lambda$多项式倍
+
+于是可以知道$\lambda$矩阵ke'ni
