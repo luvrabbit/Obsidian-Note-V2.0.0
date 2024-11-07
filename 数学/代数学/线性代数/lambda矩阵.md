@@ -38,6 +38,10 @@ $D(\lambda)$为如下矩阵
 $$
 \begin{bmatrix}
 d_{1}(\lambda) & 0 & 0 & \dots & 0 \\
-0 & d_{2}(lamb)
+0 & d_{2}(\lambda) & 0 & \dots & 0 \\
+0 & 0 & d_{3}(\lambda) & \dots & 0 \\
+\vdots & \vdots & \vdots & \vdots & \vdots \\
+0 & 0 & 0 & 0 & d_{r(\lambda)}
 \end{bmatrix}
 $$
+其中$d_{i}$
