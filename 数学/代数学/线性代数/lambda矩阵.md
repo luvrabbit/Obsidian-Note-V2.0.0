@@ -17,4 +17,4 @@ $\leftrightarrow$$|A(\lambda)|$为常数
 2. 行（列）乘以一个非零常数
 3. 行（列）加上行（列）的$\lambda$多项式倍
 
-于是可以知道$\lambda$矩阵ke'ni
+于是可以知道$\lambda$矩阵可逆$\leftrightarrow$$\lambda$矩阵可以分解为有限个初等$\lambda$阵的乘积
