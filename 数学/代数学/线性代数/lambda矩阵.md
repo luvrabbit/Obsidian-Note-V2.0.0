@@ -68,4 +68,4 @@ $D_{r}(\lambda)=d_{1}(\lambda)\dots d_{r}(\lambda)$
 
 ## 初等因子
 各阶不变因子可以做因式分解为多个$\lambda$多项式乘积
-所以
+
