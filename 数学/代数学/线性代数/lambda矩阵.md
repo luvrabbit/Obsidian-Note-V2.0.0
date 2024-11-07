@@ -22,4 +22,4 @@ $\leftrightarrow$$|A(\lambda)|$为常数
 # $\lambda$矩阵的等价
 $A(\lambda)$经过有限次初等行列变换变为$B(\lambda)$则说明这两个矩阵等价
 根据初等变换的性质，等价的充要条件是$A(\lambda)=P(\lambda)B(\lambda)Q(\lambda)$
-其中$P(\lambda)Q(\lambda)$为可逆j
+其中$P(\lambda)，Q(\lambda)$可逆
