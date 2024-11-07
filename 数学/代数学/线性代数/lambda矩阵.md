@@ -21,8 +21,8 @@ $\leftrightarrow$$|A(\lambda)|$为常数
 
 # $\lambda$矩阵的等价
 $A(\lambda)$经过有限次初等行列变换变为$B(\lambda)$则说明这两个矩阵等价记为$A(\lambda)\cong B(\lambda)$
-根据初等变换的性质，等价的充要条件是$A(\lambda)=P(\lambda)B(\lambda)Q(\lambda)$
-其中$P(\lambda)，Q(\lambda)$可逆
+根据初等变换的性质，**等价的充要条件是$A(\lambda)=P(\lambda)B(\lambda)Q(\lambda)$**
+**其中$P(\lambda)，Q(\lambda)$可逆**
 
 # $\lambda$矩阵的等价标准型
 $A(\lambda)_{m\times n}$的秩为$r$，那么
@@ -55,7 +55,7 @@ $$
 行列式因子记为$D_{i}(\lambda),i=1,2,\dots r$
 定义为$A(\lambda)$的$i$阶子式的首一最大公因式
 由定义得知，初等变化不会改变矩阵的行列式因子
-所以矩阵等价的充要条件为两矩阵行列式因子相同
+所以**矩阵等价的充要条件为两矩阵行列式因子相同**
 
 由于$A(\lambda)$与$D(\lambda)$等价，所以其行列式因子相同
 $D(\lambda)$的行列式因子分别为
@@ -64,4 +64,4 @@ $D_{2}(\lambda)=d_{1}(\lambda)d_{2}(\lambda)$
 $\vdots$
 $D_{r}(\lambda)=d_{1}(\lambda)\dots d_{r}(\lambda)$
 其中$d_{i}(\lambda)$称为第$i$个不变因子
-于是可以得出两个ju'zhen'deng
+于是可以得出**两个矩阵等价，当且仅当有相同的各阶不变因子**
