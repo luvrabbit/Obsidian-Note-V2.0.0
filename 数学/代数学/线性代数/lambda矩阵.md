@@ -44,4 +44,5 @@ d_{1}(\lambda) & 0 & 0 & \dots & 0 \\
 0 & 0 & 0 & 0 & d_{r(\lambda)}
 \end{bmatrix}
 $$
-其中$d_{i}$
+其中$d_{i}(\lambda)|d_{i+1}(\lambda)$（后被前整除），每个$d(\lambda)$首项系数为一
+
