@@ -65,3 +65,6 @@ $\vdots$
 $D_{r}(\lambda)=d_{1}(\lambda)\dots d_{r}(\lambda)$
 其中$d_{i}(\lambda)$称为第$i$个不变因子
 于是可以得出**两个矩阵等价，当且仅当有相同的各阶不变因子**
+
+## 初等因子
+各阶不变因子可以yin'shi'fen'jie
