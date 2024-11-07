@@ -25,4 +25,4 @@ $A(\lambda)$经过有限次初等行列变换变为$B(\lambda)$则说明这两�
 其中$P(\lambda)，Q(\lambda)$可逆
 
 # $\lambda$矩阵的等价标准型
-$A(\lambda)_{m×n}$
+$A(\lambda)_{m\times n}$的秩为$r$，那么$A(\lambda)\cong$
