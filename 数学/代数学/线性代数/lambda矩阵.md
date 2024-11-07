@@ -62,4 +62,5 @@ $D(\lambda)$的行列式因子分别为
 $D_{1}(\lambda)=d_{1}(\lambda)$
 $D_{2}(\lambda)=d_{1}(\lambda)d_{2}(\lambda)$
 $\vdots$
-$D_{r}(\lambda)=d_{1}(\lambda)$
+$D_{r}(\lambda)=d_{1}(\lambda)\dots d_{r}(\lambda)$
+
