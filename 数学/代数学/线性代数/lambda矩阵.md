@@ -29,8 +29,15 @@ $A(\lambda)_{m\times n}$的秩为$r$，那么
 $$
 A(\lambda)\cong
 \begin{bmatrix}
-D(\lambda)_{r} & 0 \\
+D(\lambda) & 0 \\
 0 & 0
 \end{bmatrix}
 =I_{r}(\lambda)
+$$
+$D(\lambda)$为如下矩阵
+$$
+\begin{bmatrix}
+d_{1}(\lambda) & 0 & 0 & \dots & 0 \\
+0 & d_{2}(lamb)
+\end{bmatrix}
 $$
