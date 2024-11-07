@@ -20,6 +20,6 @@ $\leftrightarrow$$|A(\lambda)|$为常数
 于是可以知道$\lambda$矩阵可逆$\leftrightarrow$$\lambda$矩阵可以分解为有限个初等$\lambda$阵的乘积
 
 # $\lambda$矩阵的等价
-$A(\lambda)$经过有限次初等行列变换变为$B(\lambda)$则说明这两个矩阵等价
+$A(\lambda)$经过有限次初等行列变换变为$B(\lambda)$则说明这两个矩阵等价$\appr\otime$
 根据初等变换的性质，等价的充要条件是$A(\lambda)=P(\lambda)B(\lambda)Q(\lambda)$
 其中$P(\lambda)，Q(\lambda)$可逆
