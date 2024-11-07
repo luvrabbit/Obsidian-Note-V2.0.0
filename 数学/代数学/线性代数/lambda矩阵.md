@@ -58,5 +58,8 @@ $$
 所以矩阵等价的充要条件为两矩阵行列式因子相同
 
 由于$A(\lambda)$与$D(\lambda)$等价，所以其行列式因子相同
-$D(\lambda)$的行列式因子分别为$D_{1}(\lambda)=d_{1}(\lambda)$
-$D_{2}(\lambda)$
+$D(\lambda)$的行列式因子分别为
+$D_{1}(\lambda)=d_{1}(\lambda)$
+$D_{2}(\lambda)=d_{1}(\lambda)d_{2}(\lambda)$
+$\vdots$
+$D_{r}(\lambda)=d_{1}(\lambda)$
