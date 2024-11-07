@@ -63,4 +63,5 @@ $D_{1}(\lambda)=d_{1}(\lambda)$
 $D_{2}(\lambda)=d_{1}(\lambda)d_{2}(\lambda)$
 $\vdots$
 $D_{r}(\lambda)=d_{1}(\lambda)\dots d_{r}(\lambda)$
-
+其中$d_{i}(\lambda)$称为第$i$个不变因子
+于是可以得出两个ju'zhen'deng
