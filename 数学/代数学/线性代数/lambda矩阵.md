@@ -73,4 +73,3 @@ $D_{r}(\lambda)=d_{1}(\lambda)\dots d_{r}(\lambda)$
 
 于是**矩阵等价，当且仅当有相同的初等因子组**
 
-$d = deg(\mu _{A}),x,Ax,\dots,A^{d-1}x$
