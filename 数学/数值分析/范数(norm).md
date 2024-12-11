@@ -46,3 +46,6 @@ $\lVert A \rVert_{\infty}=\max_{i}\sum_{j=0}^{n}\lvert a_{ij} \rvert$
 $\lVert A \rVert_{2}=\sigma_{1}$其中$\sigma_{1}$是最大的奇异值，即$AA^{T}$最大的特征值的二次方根
 
 ## 对于几种矩阵范数的理解
+考虑范数为1的向量
+### 一范数
+一范数为一的向量
