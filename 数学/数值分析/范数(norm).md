@@ -39,4 +39,8 @@ $\lVert A \rVert_{1}=\max_{j}\sum_{i=0}^{n}\lvert a_{ij} \rvert$
 即最大列向量一范数
 
 ### 无穷范数
-$\lVert A \rVert_{\infty}$
+$\lVert A \rVert_{\infty}=\max_{i}\sum_{j=0}^{n}\lvert a_{ij} \rvert$
+即最大行向量一范数
+
+### 二范数
+$\lVert A \rVert_{2}=\sigma_{1}$其中$\sigma_{1}$是最大的q
