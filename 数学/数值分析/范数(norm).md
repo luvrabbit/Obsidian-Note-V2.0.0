@@ -36,3 +36,7 @@ $$
 ## 矩阵的几种范数
 ### 一范数
 $\lVert A \rVert_{1}=\max_{j}\sum_{i=0}^{n}\lvert a_{ij} \rvert$
+即最大列向量一范数
+
+### 无穷范数
+$\lVert A \rVert_{\infty}$
