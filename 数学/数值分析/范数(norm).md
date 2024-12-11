@@ -52,4 +52,5 @@ $\lVert A \rVert_{2}=\sigma_{1}$其中$\sigma_{1}$是最大的奇异值，即$AA
 
 二范数为一的向量在二维坐标中的图形为一个圆形，满足$x^{2}+y^{2}=1$
 
-无穷范数为一的向量在二维zuo'biao'zhong
+无穷范数为一的向量在二维坐标中的图形为一个矩形，满足$\max\{ \lvert x \rvert,\lvert y \rvert \}=1$
+
