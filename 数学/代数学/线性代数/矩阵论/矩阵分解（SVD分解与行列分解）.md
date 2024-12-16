@@ -5,3 +5,5 @@
 ## SVD分解
 ![[Pasted image 20241216110225.png]]
 其中$v_{i}$为$A^{T}A$的特征向量
+$u_{i}$为$AA^{T}$的特征向量
+他们满足关系$Av_{i}=\sigma_{i}u_{i}$,$A^{T}u_{i}=\sigma_{i}v_{i}$
