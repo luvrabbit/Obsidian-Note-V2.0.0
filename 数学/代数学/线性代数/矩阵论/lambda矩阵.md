@@ -77,4 +77,4 @@ $D_{r}(\lambda)=d_{1}(\lambda)\dots d_{r}(\lambda)$
 # 
 # 例子
 见ppt2.5与2.3
-汇总ppt157-162
+汇总ppt157-162页
