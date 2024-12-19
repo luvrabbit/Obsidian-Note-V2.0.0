@@ -78,7 +78,9 @@ $D_{r}(\lambda)=d_{1}(\lambda)\dots d_{r}(\lambda)$
 
 # 初等因子与Jordan标准型
 一个初等因子与一个Jordan块对应
-ci
+$(\lambda - \lambda_{i})^{s}$
+次数$s$对应阶数，$\lambda_{i}$对应特征值
+
 # 例子
 见ppt2.5与2.3
 汇总ppt157-162页
