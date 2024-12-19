@@ -7,7 +7,7 @@
 # $\lambda$矩阵的秩
 $\lambda$矩阵中不恒为零的子式的最高阶数为其秩
 因为含有变量$\lambda$所以使用用子式来表述是最好的（相比于列空间维数）
-***$\lambda E-A$的秩一定是满秩的***
+$A$的特征矩阵 ***$\lambda E-A$的秩一定是满秩的***
 
 # $\lambda$矩阵可逆的定义
 $A(\lambda)$可逆定义为$\exists B(\lambda)\to A(\lambda)B(\lambda)=B(\lambda)A(\lambda)=E$
