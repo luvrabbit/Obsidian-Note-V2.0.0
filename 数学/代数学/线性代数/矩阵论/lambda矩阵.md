@@ -74,10 +74,11 @@ $D_{r}(\lambda)=d_{1}(\lambda)\dots d_{r}(\lambda)$
 于是**矩阵等价，当且仅当有相同的初等因子组**
 
 初等因子组+秩 $\leftrightarrow$不变因子
-行列式因子$\leftrightarrow$不变yin'zi
+行列式因子$\leftrightarrow$不变因子
 
-
-# 
+# 初等因子与Jordan标准型
+一个初等因子与一个Jordan块对应
+ci
 # 例子
 见ppt2.5与2.3
 汇总ppt157-162页
