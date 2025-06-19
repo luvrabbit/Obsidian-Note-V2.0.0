@@ -9,8 +9,9 @@ OFDM优点：
 - 易于与MIMO（多入多出）结合
 - 带宽灵活，可利用大带宽
 - 更高的频率利用率
-$\{\sin(2\pi \Delta ft),\sin(2\pi \Delta ft),\sin(2\pi \Delta ft)\dots\}$
-$\int_{0}^{T_{sym}}\sin(2\pi m\Delta ft)\sin(2\pi n\Delta ft)$
+$\{\sin(2\pi \Delta ft),\sin(2\pi *2\Delta ft),\sin(2\pi *3\Delta ft)\dots,\sin(2\pi *N\Delta ft)\}$
+$\{\cos(2\pi \Delta ft),\cos(2\pi *2\Delta ft),\cos(2\pi *3\Delta ft)\dots,\cos(2\pi *N\Delta ft)\}$
+$\int_{0}^{T_{sym}}\sin(2\pi m\Delta ft)\sin(2\pi n\Delta ft)dt=$
 
 # OFDM参数
 采样时间$T_{s}$/采样频率$F_{s}$：一个数据持续时长/数据频率，这个模型中一个数据是[0, 15]，并不是一个bit
