@@ -14,7 +14,7 @@ $\{\cos(2\pi \Delta ft),\cos(2\pi *2\Delta ft),\cos(2\pi *3\Delta ft)\dots,\cos(
 $\int_{0}^{T_{sym}}\sin(2\pi m\Delta ft)\sin(2\pi n\Delta ft)dt=\int_{0}^{T_{sym}} \frac{1}{2}(\cos(2\pi \Delta f(m-n)t)-\cos(2\pi \Delta f(m+n)t))dt=\frac{1}{2*2\pi \Delta f(m-n)}\sin(2\pi \Delta f(m-n)t)-\frac{1}{2*2\pi \Delta f(m+n)}\sin(2\pi \Delta f(m+n)t)|_{T_{sym}=\frac{1}{\Delta f}}=0-0=0$
 
 # OFDM参数
-采样时间$T_{s}$/采样频率$F_{s}$：一个数据持续时长/数据频率，这个模型中一个数据是[0, 15]，并不是一个bit，即Random Integer中的“Set Size”
+采样时间$T_{s}$/采样频率$F_{s}$：一个数据持续时长/数据频率，这个模型中一个数据的范围是[0, 15]，即可能生成0，1，2，。。。15，并不是一个bit，即Random Integer中的“Set Size”
 OFDM符号：所有**子载波（基波与各次谐波）在同一时间段内（基波周期内）发送的这组并行数据**的集合体（**时域波形叠加**）。
 符号长度（符号时长）$T_{sym}$：一个OFDM符号持续的时间，，等于基波周期
 符号率：符号长度的倒数=$\frac{1}{T_{sym}}$
