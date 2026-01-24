@@ -3,7 +3,13 @@
 **特点：**
 - 作用域仅限于定义它的文件，不能被其他文件通过函数名调用
 - 与普通函数不同，普通函数默认具有外部链接性，可以在其他文件中调用
+```
+#include <stdio.h> 
+static void private_func() { 
+printf("This is a private function.\n"); 
+} 
 
-``` 
-
+void public_func() {
+private_func(); // 在同一个文件内可以调用 
+}
 ```
