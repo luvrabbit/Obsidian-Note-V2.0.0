@@ -2,3 +2,6 @@ AGND/PGND
 AGND理解为信号地，波动较小
 PGND为功率地，开关电源的三极管开关的地，波动较大
 一般建议在
+
+
+![[images/Pasted image 20260306102903.png]]
