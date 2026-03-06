@@ -1,0 +1,3 @@
+AGND/PGND
+AGND理解为信号地，波动较小
+PGND为功率地，开关电源的san'jian
