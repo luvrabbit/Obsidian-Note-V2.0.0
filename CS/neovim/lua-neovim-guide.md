@@ -31,11 +31,11 @@ print(t[1])          -- 数组从 1 开始索引（不是 0！）
 
 Neovim 把 API 分了三层，你可以混用：
 
-| 层级 | 访问方式 | 来源 |
-|------|---------|------|
-| **Vim API**（旧 Vim 命令/函数） | `vim.cmd()` 执行 Ex 命令<br>`vim.fn` 调用 Vimscript 函数 | 继承自 Vim |
-| **Nvim API**（C 写的底层 API） | `vim.api` | Neovim 自己用 C 实现的 |
-| **Lua stdlib**（Lua 原生包装） | `vim.*` 其它内容（如 `vim.keymap`、`vim.opt` 等） | 专门为 Lua 设计的便利层 |
+| 层级                       | 访问方式                                             | 来源               |
+| ------------------------ | ------------------------------------------------ | ---------------- |
+| **Vim API**（旧 Vim 命令/函数） | `vim.cmd()` 执行 Ex 命令<br>`vim.fn` 调用 Vimscript 函数 | 继承自 Vim          |
+| **Nvim API**（C 写的底层 API） | `vim.api`                                        | Neovim 自己用 C 实现的 |
+| **Lua stdlib**（Lua 原生包装） | `vim.*` 其它内容（如 `vim.keymap`、`vim.opt` 等）         | 专门为 Lua 设计的便利层   |
 
 简单说：能用 `vim.keymap.set()` 就不要用 `vim.cmd("noremap ...")`。Lua stdlib 是最方便的选择。
 
