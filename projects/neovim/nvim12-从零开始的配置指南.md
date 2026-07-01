@@ -355,7 +355,7 @@ vim.keymap.set("n", "<Leader>e", "<Cmd>Oil<CR>")
 
 > **原理**：oil.nvim 和传统文件树（NvimTree、nerdtree）的根本区别：它把目录当作一个可编辑的文本 buffer。你可以像编辑文本一样重命名文件、创建目录、移动文件。所有操作用 Vim 的文本编辑原语完成，不需要学习新快捷键。这是一种「少即是多」的设计。
 
-### 4.9 迷你插件生态：mini.nvim
+### 3.9 迷你插件生态：mini.nvim
 
 文件：`lua/plugins/mini.lua`
 
