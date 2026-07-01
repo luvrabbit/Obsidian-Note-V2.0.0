@@ -325,7 +325,7 @@ end)
 
 Python 的 `{ "isort", "black" }` 是**顺序执行**：先 isort 整理 import 顺序，再 black 格式化代码风格。如果改成 `{ "prettierd", "prettier", stop_after_first = true }`，就是找到第一个可用的就停。
 
-### 4.7 模糊搜索：fzf-lua
+### 3.7 模糊搜索：fzf-lua
 
 文件：`lua/plugins/fzf-lua.lua`
 
