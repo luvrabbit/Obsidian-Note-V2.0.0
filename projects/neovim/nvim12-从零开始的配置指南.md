@@ -300,7 +300,7 @@ require("mini.completion").setup()
 
 > **原理**：和 nvim-cmp 不同，`mini.completion` 不需要配置 source，它会自动从 LSP client 获取补全项。它的设计哲学是「默认即合理」，牺牲一些可定制性换取零配置体验。
 
-### 4.6 格式化：conform.nvim
+### 3.6 格式化：conform.nvim
 
 文件：`lua/plugins/conform.lua`
 
