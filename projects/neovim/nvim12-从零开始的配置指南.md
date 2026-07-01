@@ -245,7 +245,7 @@ vim.api.nvim_create_autocmd("FileType", {
 
 nvim12 的做法是**自动检测文件类型并启动 Tree-sitter**，不需要手动声明支持哪些语言。
 
-### 4.5 LSP：代码智能补全与导航
+### 3.5 LSP：代码智能补全与导航
 
 文件：`lua/plugins/nvim-lspconfig.lua`
 
