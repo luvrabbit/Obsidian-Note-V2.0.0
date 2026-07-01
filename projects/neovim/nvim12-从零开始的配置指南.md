@@ -219,7 +219,7 @@ vim.keymap.set("n", "<leader>fb", "<Cmd>FzfLua buffers<CR>")
 
 一个文件 = 声明依赖 + 配置 + 快捷键。自成一体，不互相污染。
 
-### 4.4 语法高亮：Tree-sitter
+### 3.4 语法高亮：Tree-sitter
 
 文件：`lua/plugins/nvim-treesitter.lua`
 
