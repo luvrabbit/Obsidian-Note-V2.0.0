@@ -88,7 +88,7 @@ vim.opt.termguicolors = true
 
 ## 3. 核心配置详解
 
-### 4.1 编辑器基础选项（options）
+### 3.1 编辑器基础选项（options）
 
 文件：`lua/config/options.lua`
 
