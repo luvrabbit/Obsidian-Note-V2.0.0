@@ -344,7 +344,7 @@ require("fzf-lua").setup({ "fzf-native" })
 - `<Leader>fg` — 项目内模糊 grep
 - `<Leader>fb` — 模糊搜索已打开的 buffer
 
-### 4.8 文件浏览：oil.nvim
+### 3.8 文件浏览：oil.nvim
 
 文件：`lua/plugins/oil.lua`
 
