@@ -463,7 +463,7 @@ vim.keymap.set("n", "<C-l>", "gt")  -- 下一个 tab
 
 `Ctrl+h` / `Ctrl+l` 的肌肉记忆来自 Vim 的分屏导航，这里映射到 tab 切换更符合直觉。
 
-### 4.11 主题与视觉
+### 3.11 主题与视觉
 
 文件：`lua/plugins/colorscheme.lua`
 
