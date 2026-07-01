@@ -420,7 +420,7 @@ require("mini.hipatterns").setup({
 
 > **原理**：`mini.hipatterns` 用 Lua 正则实时高亮 buffer 中的特定模式。`%f[%w]` 是 Lua 的边界匹配（word-boundary），确保 `FIXME` 只匹配完整的单词，不会匹配 `FIXME_something`。`hex_color` 会把 `#ff0000` 等颜色代码真正染成相应的颜色。
 
-### 4.10 终端集成
+### 3.10 终端集成
 
 文件：`lua/config/keymaps.lua`
 
