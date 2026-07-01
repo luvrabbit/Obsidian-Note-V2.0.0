@@ -125,7 +125,7 @@ vim.opt.smartcase = true   -- 但如果搜索词包含大写字母，则区分�
 
 > **原理**：`smartcase` 是一个很聪明的设计。搜索 `foo` 时匹配 `Foo`、`FOO`；搜索 `Foo` 时只匹配 `Foo`。它和 `ignorecase=true` 配合使用才有意义。
 
-### 4.2 快捷键系统（keymaps）
+### 3.2 快捷键系统（keymaps）
 
 文件：`lua/config/keymaps.lua`
 
