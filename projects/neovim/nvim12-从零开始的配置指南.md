@@ -57,7 +57,7 @@ NVIM_APPNAME=nvim12 nvim
 
 ---
 
-## 3. nvim12 的整体架构
+## 2. nvim12 的整体架构
 
 打开 `~/.config/nvim12/init.lua`，只有 15 行：
 
