@@ -24,40 +24,7 @@
 
 ---
 
-## 1. 为什么要用 Neovim？
-
-先回答一个根本问题：**为什么要在 2026 年用 Neovim？**
-
-Neovim 不是 Vim 的简单 fork。它在 2014 年从 Vim 分叉出来，目标是在保留 Vim 精髓（模态编辑）的前提下，彻底现代化底层架构：
-
-| 特性 | Vim | Neovim |
-|------|-----|--------|
-| 异步 API | ❌ legacy | ✅ 内置 libuv |
-| 内置 LSP | ❌ 需插件 | ✅ `vim.lsp.*` |
-| Tree-sitter | ❌ | ✅ 内置集成 |
-| Lua 配置 | ❌ Vimscript 为主 | ✅ Lua 一等公民 |
-| 外部 UI | ❌ | ✅ RPC 协议（GUI、Floaterm 等） |
-| `vim.pack` 包管理 | ❌ | ✅ 0.12+ |
-
-一句话：**Neovim 保留了 Vim 的肌肉记忆（hjkl、模态编辑、宏），但在底层给了你一个现代编辑器的全部能力。**
-
-### 安装
-
-```bash
-# Arch Linux
-sudo pacman -S neovim
-
-# macOS
-brew install neovim
-
-# Ubuntu (推荐用 PPA 获取最新版)
-sudo add-apt-repository ppa:neovim-ppa/unstable
-sudo apt install neovim
-```
-
----
-
-## 2. 新手第一步：理解配置文件
+## 1. 新手第一步：理解配置文件
 
 Neovim 的配置文件放在 `~/.config/nvim/` 下。进入点只有**一个文件**：
 
