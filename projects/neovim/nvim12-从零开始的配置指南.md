@@ -179,7 +179,7 @@ end, { desc = "double Esc → exit terminal mode" })
 
 > **原理**：在 Terminal 模式下，按一次 `<Esc>` 本来就会传给终端内的程序（比如退出 vim 里的 insert 模式）。Neovim 默认用 `<C-\><C-n>` 退出 Terminal 模式，但双 Esc 显然更好记。这里用 `vim.uv.new_timer()` 实现了一个 300ms 内连按两次 Esc 退出 Terminal 模式的逻辑。`vim.uv` 是 Neovim 对 libuv 的封装，相当于 Node.js 里的定时器。
 
-### 4.3 插件管理：为什么用 `vim.pack`
+### 3.3 插件管理：为什么用 `vim.pack`
 
 文件：`lua/plugins/init.lua`
 
