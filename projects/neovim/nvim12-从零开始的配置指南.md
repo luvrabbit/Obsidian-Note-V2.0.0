@@ -86,7 +86,7 @@ vim.opt.termguicolors = true
 
 ---
 
-## 4. 核心配置详解
+## 3. 核心配置详解
 
 ### 4.1 编辑器基础选项（options）
 
